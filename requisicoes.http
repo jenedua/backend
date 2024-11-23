@@ -11,7 +11,7 @@ Get http://localhost:4000/eventos/inauguracao-loja-estrela
 
 Get http://localhost:4000/eventos/21ff36d7-8fa7-495e-9339-d1687458b660
 ###
-GET http://localhost:4000/eventos/validar/evento-fullstack-2025/5e25282b-cde5-45ff-9436-c4320d7c2f6f
+GET http://localhost:4000/eventos/validar/evento-fullstack/5e25282b-cde5-45ff-9436-c4320d7c2f6f
 ###
 POST http://localhost:4000/eventos/acessar
 Content-Type: application/json
